@@ -30,10 +30,9 @@ Jeśli chcesz, zerknij na moje repozytoria — każda **recenzja oraz podpowied�
 
 ## 🌐 Linki do moich portali
 - 🔗 **GitHub**: https://github.com/Jaksaaa  
-- 💼 **LinkedIn**: *wstaw, jeśli masz*  
-- 🌍 **Strona / portfolio**: *opcjonalnie*  
-- 🎥 **YouTube / TikTok**: *opcjonalnie*  
-- 💬 **Discord**: *opcjonalnie*  
+- 💼 **LinkedIn**:  
+- 🎥 **YouTube / TikTok**:  
+- 💬 **Discord**:  
 
 ---
 
