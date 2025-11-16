@@ -20,33 +20,6 @@ Jeśli chcesz, zerknij na moje repozytoria — każda **recenzja oraz podpowied�
 
 ---
 
-## 🚀 My Projects
-
-### 🌟 **Karty projektów**
-
-<div align="center">
-<!--
-<!-- PROJECT CARD 1 -->
-<a href="https://github.com/Jaksaaa/Projekt-1" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaksaaa&repo=Projekt-1&theme=tokyonight" />
-</a>
-
-<!-- PROJECT CARD 2 -->
-<a href="https://github.com/Jaksaaa/Projekt-2" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaksaaa&repo=Projekt-2&theme=tokyonight" />
-</a>
-
-<!-- PROJECT CARD 3 -->
-<a href="https://github.com/Jaksaaa/Projekt-3" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaksaaa&repo=Projekt-3&theme=tokyonight" />
-</a>
--->
-</div>
-
-> 💡 Gdy stworzysz swoje pierwsze repozytoria, zmień nazwy `Projekt-1`, `Projekt-2`, `Projekt-3` na nazwy prawdziwych projektów.
-
----
-
 ## 📊 Statystyki GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaksaaa&show_icons=true&theme=tokyonight)
@@ -55,18 +28,10 @@ Jeśli chcesz, zerknij na moje repozytoria — każda **recenzja oraz podpowied�
 
 ---
 
-## 🔥 Widget aktywności (GitHub Activity Graph)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaksaaa&theme=tokyo-night)
-
----
-
 ## 🌐 Linki do moich portali
-- 🔗 **GitHub**: https://github.com/Jaksaaa  
-- 💼 **LinkedIn**: *wstaw, jeśli masz*  
-- 🌍 **Strona / portfolio**: *opcjonalnie*  
-- 🎥 **YouTube / TikTok**: *opcjonalnie*  
-- 💬 **Discord**: *opcjonalnie*  
+- 🔗 **GitHub**: https://github.com/Jaksaaa    
+- 🎥 **YouTube / TikTok**:
+- 💬 **Discord**: 
 
 ---
 
